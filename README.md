@@ -3,7 +3,7 @@ Effective management of protected areas is critical to mitigating the global bio
 
 This repository contains the source code of the app, as well as training and prediction scripts for the models.
 
-![Methods PP figure 2006](https://github.com/Manuel-Weber-ETH/cameratraps/assets/118481837/9745780d-bd9a-47fa-8799-8f429ea3fa38)
+![Methods PP figure 2006](https://github.com/Manuel-Weber-ETH/cameratraps/assets/118481837/4965cdf4-8590-4628-883b-5f28ad5c8910)
 Figure 1: Methodology
 
 ## Files:
