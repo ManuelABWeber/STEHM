@@ -11,9 +11,9 @@ Vegetation category model:
 - Random forest model training script: "rf training script.R"
 - Deep learning model training script: "DL vegetation model training.py"
 
-YOLOv8 model:
-- Training script: "Python Script - Yolo8 Training.ipynb"
-- Prediction script: "Yolo8 model prediction.py"
+YOLO model:
+- Training script: "Python Script - Yolo Training.ipynb"
+- Prediction script: "Yolo model prediction.py"
 
 Time window analysis:
 - Script: "Time window analysis.R"
@@ -21,5 +21,5 @@ Time window analysis:
 Software:
 - Script: "app.py"
 
-![conceptual model msc 2604](https://github.com/Manuel-Weber-ETH/cameratraps/assets/118481837/98a97cdc-4330-45bf-8aec-6de10703476b)
+![conceptual model msc 2006](https://github.com/Manuel-Weber-ETH/cameratraps/assets/118481837/d9377621-45e2-476b-90db-b90b8d7b7600)
 Figure 2: Conceptual model
