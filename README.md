@@ -27,3 +27,5 @@ Results:
 
 ![figure5](https://github.com/user-attachments/assets/2213caa7-d3f6-4fd5-9c2a-175cafb2c3cc)
 Figure 2: Conceptual model
+
+The model weights, training datasets, and the software are freely available under https://doi.org/10.6084/m9.figshare.28360664.v1.
